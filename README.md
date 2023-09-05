@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheMisu
 - 👀 I’m interested in Computer Science and Web Development.
 - 🌱 I’m currently learning full stack web development.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on beginner friendly WebDev projects.
 - 📫 How to reach me ...
 
 <!---
